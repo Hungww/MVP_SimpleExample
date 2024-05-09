@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP_UI</string>
+    <string name="login">Đăng nhập</string>
+    <string name="or">Hoặc</string>
+    <string name="google_login">Tiếp tục bằng Google</string>
+    <string name="apple_login">Tiếp tục bằng Apple</string>
+    <string name="email_label">Email hoặc số điện thoai</string>
+    <string name="password_label">Mật khẩu</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+</resources>
